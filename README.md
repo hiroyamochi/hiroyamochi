@@ -1,6 +1,7 @@
 ### やぁ👋
 
-[hiroyamochi.github.io](https://hiroyamochi.github.io/)
+- ポートフォリオのようなブログのようなもの [hiroyamochi.github.io](https://hiroyamochi.github.io/)
+- Twitter (X) [@mochiramen0131](https://x.com/mochiramen0131)
 
 <!--
 **hiroyamochi/hiroyamochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
